@@ -1,1 +1,4 @@
-# Sales-Analysis
+# Data Analysis Project: Sales Management
+
+
+## Project Objective
