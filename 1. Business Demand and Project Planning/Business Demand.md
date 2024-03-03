@@ -7,7 +7,7 @@
 
 Sales Manager:
 
-"Hi Natalie!
+"Hi Oluwakemi!
 
 I hope you are doing well. We need to improve our internet sales reports and want to move from static reports to <u>**visual dashboards**</u>.
 
