@@ -204,4 +204,6 @@ ORDER BY
 
 ## 3. [Data Visualization](https://github.com/OluwakemiOretade/Sales-Analysis/tree/main/3.%20Data%20Visualization)
 
-To assist the decision making process, the sales managers can view the interactive [sales management dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection) which consists of an overview page and two additional pages focusing on customer data and product data over time.
+To assist the decision making process, the sales managers can view the [interactive sales management dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection) which consists of an overview page and two additional pages focusing on customer data and product data over time.
+
+
