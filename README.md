@@ -14,7 +14,7 @@
   -  Data Source: [Adventure Works Sample Databases 2024](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
 
 ## Project Outline
-1. [Business request and Project Planning](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/1.%20Business%20Demand%20and%20Project%20Planning/Business%20Demand.md).
+## 1. [Business request and Project Planning](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/1.%20Business%20Demand%20and%20Project%20Planning/Business%20Demand.md).
 
   -  The business request for this data analysis project was to create an executive sales report for the Sales Department. Based on the request that was made from the business, user stories were defined to fulfill delivery and ensure the acceptance criteria were maintained throughout the project.
 
