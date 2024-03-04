@@ -18,8 +18,8 @@
 
   -  The business request for this data analysis project was to create an executive sales report for the Sales Department. Based on the request that was made from the business, user stories were defined to fulfill delivery and ensure the acceptance criteria were maintained throughout the project.
 
-  -  User Stories:
-  - 
+  # -  User Stories:
+    
 | # | Role | Request | User Value | Acceptance Criteria |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Sales Manager | To get a dashboard overview of internet sales | Can follow better which customers and products sells the best | A Power BI dashboard which updates data once a day |
