@@ -40,9 +40,6 @@ Let me know if you need anything else!"
 | 4 | Sales Manager | A dashboard overview of internet sales | Can follow sales over time against budget | A Power Bi dashboard with graphs and KPIs comparing against budget. |
 
 
-
-
-
 ## Project Planning
 
 * Using the defined business demand overview and user stories above to identify the appropriate table within the AdventureWorks 2019 database for data cleaning and transformation.
