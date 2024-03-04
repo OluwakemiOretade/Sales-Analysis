@@ -33,6 +33,6 @@
 
 -  Below are the SQL statements for cleaning and transforming necessary data.
   
-     -  DIM_Calendar:
+     ## -  DIM_Calendar:
 
 
