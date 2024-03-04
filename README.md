@@ -208,3 +208,5 @@ To assist the decision making process, the sales managers can view the [interact
 
 [![Customer details](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/3.%20Data%20Visualization/Customer_Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection)
 
+[![](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/3.%20Data%20Visualization/Product_Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection)
+
