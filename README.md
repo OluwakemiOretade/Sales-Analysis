@@ -200,4 +200,5 @@ ORDER BY
 ## Data Model
 - Below is a screenshot of the data model after data cleaning and tables were loaded into Power BI.
 - This data model also shows how FACT_Budget is connected to FACT_InternetSales and other DIM tables.
+
 ![Data_Model.png]
