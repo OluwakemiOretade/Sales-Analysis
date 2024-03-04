@@ -32,5 +32,7 @@
 -  To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following table were extracted using SQL.
 
 -  Below are the SQL statements for cleaning and transforming necessary data.
+  
+     -  DIM_Calendar:
 
 
