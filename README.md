@@ -1,4 +1,4 @@
-# Business Demand & Project Planning
+# Data Analysis: Sales Management
 
 <img src="https://retaintechnologies.com/wp-content/uploads/2020/04/Project-Management-Mantenimiento-1.jpg" alt="Project Management image" />
 
