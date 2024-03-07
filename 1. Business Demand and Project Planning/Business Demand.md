@@ -42,5 +42,5 @@ Let me know if you need anything else!"
 
 ## Project Planning
 
-* Using the defined business demand overview and user stories above to identify the appropriate table within the AdventureWorks 2019 database for data cleaning and transformation.
+* Using the defined business demand overview and user stories above to identify the appropriate table within the AdventureWorks 2024 database for data cleaning and transformation.
 * After dashboard has been created, end users can go back to take a look at the Acceptance Criteria to ensure those have been fulfilled. 
