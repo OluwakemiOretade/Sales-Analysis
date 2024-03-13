@@ -212,8 +212,3 @@ To assist the decision making process, the sales managers can view the [interact
 
 [![](https://github.com/OluwakemiOretade/Sales-Analysis/blob/main/3.%20Data%20Visualization/Product_Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiN2Q1ZjhhYTktZTliZC00MWZmLTliOTQtODFlYjE3ZTlkNzgxIiwidCI6IjVkMTA4NWVkLTYyZDgtNGRhZC05MDI1LWY5YWFiNDIzNDllZSJ9&pageName=ReportSection)
 
-## Conclusion
-The suggested seasonality period will be the month of July where we have the total sales of $72,000, though further investigation will reveal if there is a special event that occurs in that month. Based on the pizza with the least sales the pizza that should be take off the menu is The Brie Carre Pizza with $11,588 worth of sales. 
-
-## Recommendation
-For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision.
